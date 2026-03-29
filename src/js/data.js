@@ -277,6 +277,12 @@ export const animeData = [
         imagem: "src/img/jujutsu-kaisen-s2.jpg"
     },
     {
+        titulo: "Jujutsu Kaisen <br> Temporada 3 <br> Jogo do Abate - Parte 1",
+        episodios: 12,
+        ano: 2026,
+        imagem: "src/img/jujutsu-kaisen-s3.jpg"
+    },
+    {
         titulo: "Kaiju no. 8 <br> Temporada 1",
         episodios: 12,
         ano: 2024,
