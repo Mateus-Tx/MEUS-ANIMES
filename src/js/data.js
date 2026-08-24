@@ -950,6 +950,18 @@ export const animeData = [
         imagem: "src/img/vanitas-no-carte-s2.jpg"
     },
     {
+        titulo: "Vinland Saga <br> Temporada 1",
+        episodios: 24,
+        ano: 2019,
+        imagem: "src/img/vinland-saga-s1.jpg"
+    },
+    {
+        titulo: "Vinland Saga <br> Temporada 2",
+        episodios: 24,
+        ano: 2023,
+        imagem: "src/img/vinland-saga-s2.jpg"
+    },
+    {
         titulo: "Violet Evergarden",
         episodios: 13,
         ano: 2018,
