@@ -745,6 +745,13 @@ export const animeData = [
         imagem: "src/img/sousou-no-frieren-s1.jpg"
     },
     {
+        titulo: "Sousou no Frieren <br> Temporada 2",
+        episodios: 10,
+        ano: 2026,
+        imagem: "src/img/sousou-no-frieren-S2.jpg"
+    },
+    
+    {
         titulo: "Spy x Family <br> Temporada 1 - Parte 1",
         episodios: 12,
         ano: 2022,
