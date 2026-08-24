@@ -968,6 +968,12 @@ export const animeData = [
         imagem: "src/img/wind-breaker-s2.jpg"
     },
     {
+        titulo: "Witch Hat Atelier  <br> Temporada 1",
+        episodios: 13,
+        ano: 2026,
+        imagem: "src/img/witch-hat-atelier-s1.jpg"
+    },
+    {
         titulo: "Yu-Gi-Oh GX",
         episodios: 154,
         ano: 2004,
