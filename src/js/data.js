@@ -126,6 +126,12 @@ export const animeData = [
         imagem: "src/img/cyberpunk-s1.jpg"
     },
     {
+        titulo: "Daemons of The Shadow Realm <br> Temporada 1 - Parte 1",
+        episodios: 12,
+        ano: 2026,
+        imagem: "src/img/daemons-of-the-shadow-realm-s1-parte-1.jpg"
+    },
+    {
         titulo: "Dan Dan Dan <br> Temporada 1",
         episodios: 12,
         ano: 2024,
