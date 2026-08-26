@@ -235,6 +235,12 @@ export const animeData = [
         imagem: "src/img/fire-force-s3-p1.jpg"
     },
     {
+        titulo: "Fire Force <br> Temporada 3 - Parte 2",
+        episodios: 13,
+        ano: 2026,
+        imagem: "src/img/fire-force-s3-p2.jpg"
+    },
+    {
         titulo: "Gachiakuta <br> Temporada 1",
         episodios: 24,
         ano: 2025,
