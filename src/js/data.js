@@ -259,10 +259,16 @@ export const animeData = [
         imagem: "src/img/goblin-slayer-s2.jpg"
     },
     {
-        titulo: "Hell's Paradise",
+        titulo: "Hell's Paradise <br> Temporada 1",
         episodios: 13,
         ano: 2023,
         imagem: "src/img/hell_s-paradise.jpg"
+    },
+    {
+        titulo: "Hell's Paradise <br> Temporada 2",
+        episodios: 12,
+        ano: 2026,
+        imagem: "src/img/hell_s-paradise-s2.jpg"
     },
     {
         titulo: "Highschool of the Dead",
