@@ -445,6 +445,12 @@ export const animeData = [
         imagem: "src/img/my-hero-academia-vigilantes-s1.jpg"
     },
     {
+        titulo: "My Hero Academia: Vigilantes <br> Temporada 2",
+        episodios: 13,
+        ano: 2026,
+        imagem: "src/img/my-hero-academia-vigilantes-s2.jpg"
+    },
+    {
         titulo: "Nanatsu no Taizai <br> Temporada 1",
         episodios: 24,
         ano: 2014,
