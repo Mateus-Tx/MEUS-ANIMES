@@ -114,6 +114,12 @@ export const animeData = [
         imagem: "src/img/classroom-of-the-elite-s3.jpg"
     },
     {
+        titulo: "Classroom of the Elite <br> Temporada 4",
+        episodios: 16,
+        ano: 2026,
+        imagem: "src/img/classroom-of-the-elite-s4.jpg"
+    },
+    {
         titulo: "Cyberpunk <br> Temporada 1",
         episodios: 10,
         ano: 2022,
